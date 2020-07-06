@@ -56,7 +56,18 @@
 //      document.write(str - a + "<br/>");
 //      document.write(str * "2" + "<br/>");
 //      document.write(str / 2 + "<br/>");
-console.log parseInt("3.14")
-console.log parseInt ("-7.875")
-console.log parseInt("435")
-console.log parseInt("Вася")
+// let masiv1 =[ 1,2,3];
+// let masiv2 =[ "jo","ho","ko" ]
+// let masiv3 =[ 1, "lo", 1<2]
+// let masiv4 =[ ]
+// console.log(masiv3);
+// masiv4 [0]=5;
+// console.log(masiv4);
+
+for ( let i=0; i<10; i++){
+console.log(i);
+document.write (i);
+document.write ("<h1></h1>")
+document.wrire ()
+}
+
