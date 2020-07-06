@@ -70,5 +70,6 @@ document.write (i);
 document.write ("<h1></h1>")
 document.wrire (i)
 document.wrire (i)
+document
 }
 
