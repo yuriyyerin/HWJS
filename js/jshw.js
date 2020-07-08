@@ -64,10 +64,39 @@
 // masiv4 [0]=5;
 // console.log(masiv4);
 
-for ( let i=0; i<10; i++){
-console.log(i);
-document.write (i);
-document.write ("<h1></h1>")
+// for ( let i=0; i<10; i++){
+// console.log(i);
+// document.write ("<h1>произвольный текст</h1>")}
 
+// let i=0
+// while (i<20) 
+// { document.write ("<h1>ghjbpdjk hfhfhfhfh</h1>")
+// i++}
+// let mas10 = [1,2,3,4,5,6,7,8,9,10];
+// for (let i=mas10[0]; i<mas10.length; i++){
+//     console.log(i);
+    
+// }
+// let mas = ["cat", "dog", "flat", "rabit", "cap", "house"];
+
+// for (let i=0; i<mas.length; i++){
+//     console.log(mas[i]);
+    
+// }
+// let mas = ["cat", "dog", 2, "rabit", 5>4, "house"];
+
+// for (let i=0; i<mas.length; i++){
+//     console.log(mas[i]);
+    
+// // }
+// let mas = ["cat", "dog", 2, "rabit", 5>4, "house"];
+// for (let i=0; i<mas.length; i++){
+
+
+    let mas = ["cat", "dog", 2, "rabit", 5>4, "house"];
+    for (let i=0; i<mas.length; i++)
+    {
+    if (typeof mas [i] === 'boolean') {
+    console.log(i)}
 }
-
+    
